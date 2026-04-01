@@ -68,7 +68,7 @@ SELECT product_id, product_name,
 CASE WHEN product_qty_type = 'unit' THEN 'unit' ELSE 'bulk'
 	END as prod_qty_type_condensed
 FROM product;
-if the product_qty_type is “unit,” and otherwise displays the word “bulk.” */
+if the product_qty_type is “unit,” and otherwise displays the word “bulk.” 
 
 
 --END QUERY
@@ -84,7 +84,7 @@ CASE WHEN product_qty_type = 'unit' THEN 'unit' ELSE 'bulk'
 CASE WHEN product_name LIKE '%pepper%' THEN 1 ELSE 0
     END as pepper_flag
 FROM product;
-contains the word “pepper” (regardless of capitalization), and otherwise outputs 0. */
+contains the word “pepper” (regardless of capitalization), and otherwise outputs 0
 
 
 --END QUERY
@@ -107,9 +107,7 @@ INNER JOIN vendor_booth_assignments vb
 ORDER BY vb.market_date, v.vendor_name
 LIMIT 24;
 
-
 --END QUERY
-
 
 
 /* SECTION 3 */
