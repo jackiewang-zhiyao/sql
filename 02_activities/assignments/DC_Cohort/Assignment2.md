@@ -57,7 +57,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 ```
 Your answer...
-```
+```Type 1 overwrites the data. Type 2 retain changes. 
 
 ***
 
@@ -191,5 +191,5 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+After reading the article, I noticed several important ethical issues. The main point of the article is that machine learning systems and neural networks are not truly independent but instead rely heavily on human labor. The article uses the example of assembling clothes to show how tasks that seem simple for humans are difficult to automate. It also highlights that training these systems depends on human work, yet the workers involved are often “invisible,” which raises concerns about transparency and recognition. A related issue is that these workers frequently receive low pay and lack job security, despite their essential role in building AI systems. In addition, because these systems are trained on human-generated data, human biases can be introduced and reflected in AI outputs, potentially leading to unfair results and biased decision-making. The article also points out that presenting AI as fully autonomous can mislead the public and obscure the human effort behind these technologies. Personally, I have not been involved in building data or AI training, so it is somewhat difficult for me to fully understand how databases are built and how AI systems are trained. However, I have always considered AI as a tool and knowing how to use this tool is important now and will likely become even more important in the future. Therefore, I agree with the concerns raised in this article. If these issues can be addressed, AI systems can be developed more responsibly and made more accessible for everyone to use.
 ```
